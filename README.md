@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Cameron 👋
 
 I'm a front-end developer passionate about using technology to solve difficult problems. Some of my favourite technologies include React JS and Firebase. 
 
