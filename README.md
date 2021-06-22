@@ -1,8 +1,6 @@
 ### Hi, I'm Cameron 👋
 
-I'm a front-end developer passionate about using technology to solve difficult problems. Some of my favourite technologies include React JS and Firebase. 
+I'm a software engineer that specializes in building web applications using javascript.
 
-
-- 👯 I’m looking to collaborate on a potential podcast
 - 📫 How to reach me: cameron.h.amini at gmail.com
 - 🔎 Find me on twitter: [@cameron_amini](https://twitter.com/cameron_amini)
